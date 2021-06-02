@@ -1,0 +1,23 @@
+/* Decendent Selector */
+
+/* div p {
+  color: green; text-align: center;
+} */
+
+/* Child Selector */
+/* div > p {
+  color: blue ; text-align: center;
+} */
+
+/* Adjecent Sibling
+ */
+
+ /* div + p {
+   color: green ; text-align: center;
+ } */
+/* General Sibling Selector
+ */
+
+div ~ p {
+  color:gold ; text-align: center
+}
